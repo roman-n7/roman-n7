@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Roman Navarrete</h1>
 <h3 align="center">Computer Engineering Student @ University of Toronto</h3>
-<h3 align="center">Aspiring Software Developer | AI/ML Enthusiast </h3>
 
 Hi, I’m a passionate developer with a background in Electrical and Computer Engineering and a strong interest in machine learning and software systems that solve real-world problems. I enjoy building intelligent, end-to-end applications that are not just functional, but genuinely useful, scalable, and efficient. My focus is on creating systems that combine thoughtful design with practical utility.
 
