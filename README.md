@@ -1,6 +1,17 @@
 <h1 align="center">Hi, I'm Roman Navarrete</h1>
-<h3 align="center">An aspiring software engineer and a Computer Engineering student at the University of Toronto</h3>
+<h3 align="center">Computer Engineering Student @ University of Toronto</h3>
+<h3 align="center">Aspiring Software Developer | AI/ML Enthusiast </h3>
 
+Hi, I’m a passionate developer with a background in Electrical and Computer Engineering and a strong interest in machine learning and software systems that solve real-world problems. I enjoy building intelligent, end-to-end applications that are not just functional, but genuinely useful, scalable, and efficient. My focus is on creating systems that combine thoughtful design with practical utility.
+
+Over the past year, I’ve worked on projects involving:
+	•	GIS-based pathfinding and optimization (ECE297 @ UofT)
+	•	PDF generation and backend APIs using Python
+	•	Real-time chatbot systems with WebSockets
+
+I’m also diving deeper into machine learning frameworks like PyTorch and TensorFlow, aiming to integrate intelligent systems into the products I build.
+
+I’m always looking to learn new technologies and collaborate on impactful projects. Feel free to explore my repos or reach out if you’re interested in working together!
 - 📫 How to reach me **roman.navarrete@mail.utoronto.ca**
 
 <h3 align="left">Connect with me:</h3>
